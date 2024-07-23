@@ -1,0 +1,8 @@
+.panel {
+  border: 1px solid #ccc; /* Adjust border color as needed */
+  border-radius: 18px; /* Adjust border radius as needed */
+  padding: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Adjust shadow strength as needed */
+  background-color: white;
+  width: 100%;
+}

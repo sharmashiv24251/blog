@@ -1,0 +1,32 @@
+.is-fullScreen {
+  min-height: 100vh;
+  position: absolute;
+  inset: 0;
+}
+
+.logo {
+  position: absolute;
+  width: 143.62px;
+  height: 150px;
+  right: 0;
+  margin-right: 2rem;
+  bottom: 0;
+  margin-bottom: 2rem;
+  border-radius: 18px;
+}
+
+.isCentre {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+  margin-top: 2rem;
+}
+
+.toLeft {
+  position: absolute;
+  transform: translate(-55%, -50%);
+  left: 50%;
+  top: 50%;
+  margin-top: 2rem;
+}
